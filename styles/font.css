@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "DM-sans";
+    src: url("../fonts/DMsans/DMSans-Italic-VariableFont_opsz\,wght.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Open-sans";
+    src: url("../fonts/OpenSans/OpenSans-Italic-VariableFont_wdth\,wght.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Ruda";
+    src: url("../fonts/Ruda/Ruda-VariableFont_wght.ttf") format("truetype");
+}
